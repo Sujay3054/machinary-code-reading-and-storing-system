@@ -1,0 +1,7 @@
+paddleocr
+paddlepaddle
+opencv-python
+numpy
+python-dotenv
+mysql-connector-python
+setuptools
